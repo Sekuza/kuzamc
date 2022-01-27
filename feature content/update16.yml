@@ -1,45 +1,44 @@
-1.0: Added:
 ############################################################################################################
 #                       ADDED                                                                              #
 #                                                                                                          #
 ############################################################################################################
-- Custom Items hinzugefügt:
-    > Reis(Seeds,Plants,raw):
-    5% Chance Seeds beim Zerstören von Grass in PLAINS Biome
-    > Tomaten(seeds,plants,raw):
-    5% Chance Seeds beim Zerstören von Grass in SAVANNA Biome
-    > Kaffeebohnen(Seeds,plants,raw):
-    1% Chance Seeds beim zerstören von Grass in JUNGLE Biome
-    > Kaffemaschine:
-    > Tasse:
-    > Kaffeetasse:
-    30 sekunden movement & harvest speed
-    > Blaubeeren(Bush,berries):
-    > Netherite Bogen:
-    Durability; 
-    > Netherite Schild:
-    Durability;
-- Essen wurde ein Item tag hinzugefügt:
-- Plants wurde ein Item tag hinzugefügt:
-- Es wird ein Effekt abgespielt wenn man im Rang aufsteigt:
+- Added new custom items
+    > Rice seeds
+    5% chance to get this seed by breaking grass in plains biome
+    > Tomato seeds
+    5% chance to get this seed by breaking grass in savanna biome
+    > Coffee beans
+    1% chance to get this bean by breaking jungle leaves in jungle biome
+    > Raw rice
+    > Rice crop
+    > Tomato
+    > Tomato crop
+    > Coffee crop
+    > Coffee machine
+    > Cup
+    > Cup of coffee (30 sec harvest & movement speed)
+    > Blueberry
+    > Blueberry crop
+    > Netherite Bow
+    > Netherite Shield
+- Added item tags to food with the name "food"
+- Added item tags to seeds with the name "seeds"
+- Added a effect when you rank up
+- Added a clean HD font
     
-1.1: Changes:
 ############################################################################################################
 #                       CHANGES                                                                            #
 #                                                                                                          #
 ############################################################################################################
-- Job Preise wurden angepasst:
-- "Sweet Berries" wurden umbenannt in "Heidelbeeren":
-- Font geändert:
+- Item prices in the shop have been adjusted
+- Renamed "Sweet berry" to "Rasberry"
 
-1.2: Fixes:
 ############################################################################################################
 #                       FIXES                                                                              #
 #                                                                                                          #
 ############################################################################################################
-- Ein Fehler bei dem die Uhrzeit Icons in der Tabliste zu groß sind wurde behoben
+- Fixed a bug where the time icons looked too big in the tablist
 
-1.3: Removed:
 ############################################################################################################
 #                       REMOVED                                                                            #
 #                                                                                                          #
